@@ -1,1 +1,0 @@
-This program calculates the number of litres of paint required to paint a room based on the dimensions of its walls and unpaintable areas, and the number of coats that will have to be applied as required by Task 2 on the provided Programming Worksheet One
