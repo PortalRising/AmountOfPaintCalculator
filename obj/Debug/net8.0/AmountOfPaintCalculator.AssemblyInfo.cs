@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmountOfPaintCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a20f5d5605b053c15291bde620cd6a4d6a6a0396")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmountOfPaintCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmountOfPaintCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
