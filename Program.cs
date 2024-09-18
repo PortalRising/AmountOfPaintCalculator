@@ -57,10 +57,10 @@ namespace AmountOfPaintCalculator
             }
 
             // Apply area to paint ratio to find out how much paint is required for one layer
-            double LitresOfOneLayerPaint = TotalArea * PaintVolumeToSurfaceArea;
+            double LitresForOneLayerPaint = TotalArea / PaintVolumeToSurfaceArea;
 
             // Calculate the total number of litres to paint the room with a set number of coats
-            double TotalAmountOfPaint = LitresOfOneLayerPaint * CoatsOfPaint;
+            double TotalAmountOfPaint = LitresForOneLayerPaint * CoatsOfPaint;
 
             return TotalAmountOfPaint;
         }
